@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\chaijin\\test\\TestMainWebApi\\TestMainWebApi.csproj",
+      "projectUniqueName": "C:\\chaijin\\test\\TestMainWebApi_New\\TestMainWebApi.csproj",
       "projectName": "TestMainWebApi",
-      "projectPath": "C:\\chaijin\\test\\TestMainWebApi\\TestMainWebApi.csproj",
+      "projectPath": "C:\\chaijin\\test\\TestMainWebApi_New\\TestMainWebApi.csproj",
       "packagesPath": "C:\\Users\\way\\.nuget\\packages\\",
-      "outputPath": "C:\\chaijin\\test\\TestMainWebApi\\obj\\",
+      "outputPath": "C:\\chaijin\\test\\TestMainWebApi_New\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\way\\AppData\\Roaming\\NuGet\\NuGet.Config",

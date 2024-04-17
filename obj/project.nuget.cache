@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jf4UKUIZ/Rl7zssg4J0/rLU6qeh5CEOxxraUdIWfT65+7bgrYqAr9Bc1QJxcrl2iS1v9UqmGk0m7oGp3EmHr4A==",
+  "dgSpecHash": "Jk/j/4tXi13kSWunHFRYosj/IoLQzJp+ngAFsHHOwfvsPFoMcBRjOEfEDrQG5IrgG0WbvfxQnXhF+WP/ir1oVw==",
   "success": true,
-  "projectFilePath": "C:\\chaijin\\test\\TestMainWebApi\\TestMainWebApi.csproj",
+  "projectFilePath": "C:\\chaijin\\test\\TestMainWebApi_New\\TestMainWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\way\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\way\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
